@@ -1,5 +1,3 @@
-console.log("Git Hello");
-
 let l = ["Python", "C", "Java", "JavaScript"];
 
 console.log("Programming Languages");
